@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Shabbar206
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning on CS50
+- 📫 Reach me on instagram (shabbar.raza206)
